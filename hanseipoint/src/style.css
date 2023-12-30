@@ -1,0 +1,15 @@
+.stop-watch-timer {
+  font-size: 100px;
+  text-align: center;
+}
+
+.stop-watch-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stop-watch-control button {
+  margin: 25px;
+  font-size: 25px;
+}
